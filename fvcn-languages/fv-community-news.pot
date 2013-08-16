@@ -1,0 +1,694 @@
+# Copyright (C) 2012 FV Community News
+# This file is distributed under the same license as the FV Community News package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FV Community News 3.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/fv-community-news\n"
+"POT-Creation-Date: 2012-07-31 21:38:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (FV Community News 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: fv-community-news.php:215
+msgid "FV Community News"
+msgstr ""
+
+#: fv-community-news.php:216 fv-community-news.php:217
+#: fv-community-news.php:218
+msgid "Community News"
+msgstr ""
+
+#: fv-community-news.php:219 fv-community-news.php:223
+msgid "New Post"
+msgstr ""
+
+#: fv-community-news.php:220
+msgid "Create New Post"
+msgstr ""
+
+#: fv-community-news.php:221 fvcn-admin/fvcn-admin-dashboard.php:375
+#: fvcn-theme/archive-fvcn-post.php:47 fvcn-theme/single-fvcn-post.php:43
+#: fvcn-theme/taxonomy-fvcn-tag.php:54
+msgid "Edit"
+msgstr ""
+
+#: fv-community-news.php:222 fvcn-includes/fvcn-common-functions.php:171
+msgid "Edit Post"
+msgstr ""
+
+#: fv-community-news.php:224 fv-community-news.php:225
+msgid "View Post"
+msgstr ""
+
+#: fv-community-news.php:226
+msgid "Search Community News"
+msgstr ""
+
+#: fv-community-news.php:227
+msgid "No posts found"
+msgstr ""
+
+#: fv-community-news.php:228
+msgid "No posts found in Trash"
+msgstr ""
+
+#: fv-community-news.php:246 fvcn-includes/fvcn-core-widgets.php:50
+msgid "FV Community News Posts"
+msgstr ""
+
+#: fv-community-news.php:274 fvcn-admin/fvcn-admin-dashboard.php:376
+#: fvcn-admin/fvcn-admin-post-moderation.php:342
+msgid "Spam"
+msgstr ""
+
+#: fv-community-news.php:275
+msgctxt "fvcn"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fv-community-news.php:297 fvcn-admin/fvcn-admin-form.php:65
+#: fvcn-admin/fvcn-admin-post-moderation.php:245
+#: fvcn-includes/fvcn-common-functions.php:171
+#: fvcn-includes/fvcn-core-options.php:69
+msgid "Tags"
+msgstr ""
+
+#: fv-community-news.php:298
+msgid "Tag"
+msgstr ""
+
+#: fv-community-news.php:299
+msgid "Search Tags"
+msgstr ""
+
+#: fv-community-news.php:300
+msgid "Popular Tags"
+msgstr ""
+
+#: fv-community-news.php:301
+msgid "All Tags"
+msgstr ""
+
+#: fv-community-news.php:302
+msgid "Edit Tag"
+msgstr ""
+
+#: fv-community-news.php:303
+msgid "Update Tag"
+msgstr ""
+
+#: fv-community-news.php:304
+msgid "Add New Tag"
+msgstr ""
+
+#: fv-community-news.php:305
+msgid "New Tag Name"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:230
+msgid "Are you sure?"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:237
+msgid "Invallid action"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:293
+msgid "Recent Community News"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:373
+#: fvcn-admin/fvcn-admin-post-moderation.php:91
+#: fvcn-admin/fvcn-admin-post-moderation.php:339
+msgid "Publish"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:374
+#: fvcn-admin/fvcn-admin-post-moderation.php:92
+#: fvcn-admin/fvcn-admin-post-moderation.php:337
+msgid "Unpublish"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:377
+msgid "Trash"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:388
+msgid "View All"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:392
+msgid "No posts found, yet."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:411
+#: fvcn-includes/fvcn-core-widgets.php:133
+msgid "Number of posts to show:"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-dashboard.php:413
+msgid "(1 - 30)"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:27 fvcn-admin/fvcn-admin-post-edit.php:121
+#: fvcn-includes/fvcn-common-functions.php:171
+#: fvcn-includes/fvcn-core-options.php:63
+msgid "Author Name"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:29 fvcn-admin/fvcn-admin-form.php:36
+#: fvcn-admin/fvcn-admin-form.php:43 fvcn-admin/fvcn-admin-form.php:50
+#: fvcn-admin/fvcn-admin-form.php:60 fvcn-admin/fvcn-admin-form.php:67
+#: fvcn-admin/fvcn-admin-form.php:81
+msgid "Label"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:34 fvcn-admin/fvcn-admin-post-edit.php:127
+#: fvcn-includes/fvcn-common-functions.php:171
+#: fvcn-includes/fvcn-core-options.php:64
+msgid "Author Email"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:41
+#: fvcn-admin/fvcn-admin-post-moderation.php:243
+#: fvcn-includes/fvcn-common-functions.php:171
+#: fvcn-includes/fvcn-core-options.php:65
+msgid "Title"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:48
+#: fvcn-includes/fvcn-common-functions.php:171
+#: fvcn-includes/fvcn-core-options.php:66
+msgid "Link"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:53 fvcn-admin/fvcn-admin-form.php:70
+#: fvcn-admin/fvcn-admin-form.php:84
+msgid "Required"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:58
+msgid "Content"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:75 fvcn-includes/fvcn-core-options.php:72
+msgid "Thumbnail"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:77 fvcn-includes/fvcn-extend-akismet.php:334
+msgid "Enabled"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:106 fvcn-admin/fvcn-admin.php:212
+#: fvcn-includes/fvcn-core-widgets.php:189
+msgid "FV Community News Form"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:114 fvcn-admin/fvcn-admin-settings.php:85
+msgid "Save Changes"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:137
+msgid "This screen provides access to the form configuration."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:138
+msgid ""
+"Change the label of a form field, this is the value displayed above the "
+"field. Note that it is <em>not</em> possible to use any html."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:139
+msgid "Make a field required or optional."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:140
+msgid "Remember to save your settings when you are done!"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:144
+msgid "Overview"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:160
+msgid "Author name field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:191
+msgid "Author email field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:222
+msgid "Title field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:253
+msgid "Link field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:284
+msgid "Make the link field a required field."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:300
+msgid "Content field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:331
+msgid "Tags field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:362
+msgid "Make the tags field a required field."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:378
+msgid "Thumbnail field settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:395
+msgid "Enable the thumbnail field."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-form.php:425
+msgid "Make the thumbnail field a required field."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:57
+msgid "Post Information"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:123
+msgid "Name"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:129
+msgid "Email"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:135
+msgid "Author IP Address"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:137
+#: fvcn-admin/fvcn-admin-post-edit.php:149
+msgid "IP Address"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:141
+msgid "Post Link"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:143
+msgid "Post URL"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-edit.php:147
+msgid "Post Rating"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:93
+msgid "Mark as spam"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:193
+msgid "The post was not found!"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:196
+msgid "You do not have permissions to do that!"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:244
+msgid "Post Details"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:246
+msgid "Comments"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:247
+msgid "Date"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:324
+msgid "Not Spam"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:370
+msgid "Remove All Spam"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:394
+#: fvcn-admin/fvcn-admin-post-moderation.php:409
+msgid "One post published."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:397
+#: fvcn-admin/fvcn-admin-post-moderation.php:412
+msgid "One post unpublished."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:400
+#: fvcn-admin/fvcn-admin-post-moderation.php:415
+msgid "One post marked as spam."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:403
+msgid "One post cleared from spam."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-post-moderation.php:406
+msgid "Removed all spam."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:31
+msgid "General Settings"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:33
+msgid "Before a post appears&hellip;"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:37
+msgid "Send a notification mail&hellip;"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:41
+msgid "Authentication"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:45
+msgid "Permalinks"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:47
+msgid "Base Slug"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:50
+msgid "Post Slug"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:53
+msgid "Tag Slug"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:56
+msgid "Archive Slug"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:77 fvcn-admin/fvcn-admin.php:222
+msgid "FV Community News Settings"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:102
+msgid "General plugin settings."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:118
+msgid "an administrator must always approve the post."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:121
+msgid ""
+"the user must have a previously approved post (authentication required)."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:138
+msgid "when a post is submitted."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:141
+msgid "when a post is held for moderation."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:158
+msgid "Anyone can add an article."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin-settings.php:173
+msgid "Here you can set the <a href=\"%s\">permalink</a> structure bases."
+msgstr ""
+
+#: fvcn-admin/fvcn-admin.php:213
+msgid "Form"
+msgstr ""
+
+#: fvcn-admin/fvcn-admin.php:223
+msgid "Settings"
+msgstr ""
+
+#: fvcn-includes/fvcn-common-functions.php:157
+msgid "New Community Post Awaiting Moderation"
+msgstr ""
+
+#: fvcn-includes/fvcn-common-functions.php:160
+msgid "New Community Post"
+msgstr ""
+
+#: fvcn-includes/fvcn-common-functions.php:171
+msgid "No Link Added"
+msgstr ""
+
+#: fvcn-includes/fvcn-common-functions.php:171
+msgid "Moderation Page"
+msgstr ""
+
+#: fvcn-includes/fvcn-common-functions.php:171
+msgid "Permalink"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-javascript.php:43
+msgid "Loading"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-javascript.php:94 fvcn-theme/fvcn/form-post.php:22
+msgid "Your post has been added and is pending review."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-options.php:68
+msgid "Description"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:37
+msgid "Invallid value."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:214
+#: fvcn-includes/fvcn-core-validate.php:338
+msgid "Value cannot be empty."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:235
+msgid "Value must be a valid email address."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:248
+msgid "Value must be a valid url."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:261
+#: fvcn-includes/fvcn-core-validate.php:319
+msgid "Value can only contain alphabetic characters."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:274
+msgid "Value can only contain alphabetic and numeric characters."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:290
+msgid "Value requires at least %d characters."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:306
+msgid "Value cannot have more then %d characters."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:332
+msgid "The image provided is not a valid image."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-validate.php:376
+msgid "Timout occured, please resubmit."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:47
+msgid "A list of the most recent community news."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:128
+#: fvcn-includes/fvcn-core-widgets.php:253
+#: fvcn-includes/fvcn-core-widgets.php:354
+msgid "Title:"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:139
+msgid "Show thumbnails"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:145
+msgid "Show \"view all\" link"
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:186
+msgid "A form to add community news."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:295
+msgid "A tag cloud with tags from community news."
+msgstr ""
+
+#: fvcn-includes/fvcn-core-widgets.php:298
+msgid "FV Community News Tag Cloud"
+msgstr ""
+
+#: fvcn-includes/fvcn-deprecated-functions.php:79
+msgid "No Community News found."
+msgstr ""
+
+#: fvcn-includes/fvcn-extend-akismet.php:332
+msgid "Akismet"
+msgstr ""
+
+#: fvcn-includes/fvcn-extend-akismet.php:348
+msgid ""
+"Keep in mind that you must have/keep the Akismet plugin enabled with a valid "
+"API key."
+msgstr ""
+
+#: fvcn-includes/fvcn-extend-akismet.php:364
+msgid "Enable Akismet spam protection for community posts."
+msgstr ""
+
+#: fvcn-includes/fvcn-extend-akismet.php:368
+msgid "Your current API key appears to be <strong>valid</strong>."
+msgstr ""
+
+#: fvcn-includes/fvcn-extend-akismet.php:372
+msgid "Your current API key appears to be <strong>invalid</strong>."
+msgstr ""
+
+#: fvcn-includes/fvcn-post-functions.php:128
+#: fvcn-includes/fvcn-post-functions.php:143
+#: fvcn-includes/fvcn-post-functions.php:157
+#: fvcn-includes/fvcn-post-functions.php:184
+#: fvcn-includes/fvcn-post-functions.php:198
+#: fvcn-includes/fvcn-post-functions.php:212
+#: fvcn-includes/fvcn-post-functions.php:226
+#: fvcn-includes/fvcn-post-functions.php:243
+#: fvcn-includes/fvcn-post-functions.php:260
+#: fvcn-includes/fvcn-post-functions.php:274
+#: fvcn-includes/fvcn-post-functions.php:284
+msgid "<strong>ERROR</strong>: %s"
+msgstr ""
+
+#: fvcn-includes/fvcn-post-template.php:1214
+msgid "Tags:"
+msgstr ""
+
+#: fvcn-theme/archive-fvcn-post.php:19
+msgid "Community News Archive"
+msgstr ""
+
+#: fvcn-theme/archive-fvcn-post.php:33 fvcn-theme/single-fvcn-post.php:29
+#: fvcn-theme/taxonomy-fvcn-tag.php:40
+msgid "Posted on"
+msgstr ""
+
+#: fvcn-theme/archive-fvcn-post.php:36 fvcn-theme/single-fvcn-post.php:32
+#: fvcn-theme/taxonomy-fvcn-tag.php:43
+msgid "by"
+msgstr ""
+
+#: fvcn-theme/archive-fvcn-post.php:58 fvcn-theme/taxonomy-fvcn-tag.php:66
+msgid "Nothing Found"
+msgstr ""
+
+#: fvcn-theme/archive-fvcn-post.php:62 fvcn-theme/taxonomy-fvcn-tag.php:70
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: fvcn-theme/fvcn/content-archive-post.php:25
+#: fvcn-theme/fvcn/content-single-post.php:34
+msgid "Tags: "
+msgstr ""
+
+#: fvcn-theme/fvcn/content-single-post.php:26
+msgid "Read full article: %s"
+msgstr ""
+
+#: fvcn-theme/fvcn/content-single-post.php:39
+msgid "Rating:"
+msgstr ""
+
+#: fvcn-theme/fvcn/content-single-post.php:42
+msgid "Rate this post:"
+msgstr ""
+
+#: fvcn-theme/fvcn/feedback-no-anonymous.php:19
+msgid "You have to be logged in in order to post."
+msgstr ""
+
+#: fvcn-theme/fvcn/feedback-no-posts.php:18
+msgid "There are no posts yet. Be the first to add one!"
+msgstr ""
+
+#: fvcn-theme/fvcn/form-post.php:20
+msgid "Your post has been added."
+msgstr ""
+
+#: fvcn-theme/fvcn/form-post.php:64
+msgid ""
+"Currently logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out</"
+"a>"
+msgstr ""
+
+#: fvcn-theme/fvcn/form-post.php:125
+msgid "Submit"
+msgstr ""
+
+#: fvcn-theme/fvcn/loop-single-post.php:29
+msgid "Read article: %s"
+msgstr ""
+
+#: fvcn-theme/single-fvcn-post.php:19
+msgid "Post navigation"
+msgstr ""
+
+#: fvcn-theme/single-fvcn-post.php:20
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: fvcn-theme/single-fvcn-post.php:21
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: fvcn-theme/taxonomy-fvcn-tag.php:19
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.frank-verhoeven.com/wordpress-plugin-fv-community-news/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allow visitors of your site to post articles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Frank Verhoeven"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.frank-verhoeven.com/"
+msgstr ""

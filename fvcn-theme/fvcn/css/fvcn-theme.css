@@ -1,0 +1,312 @@
+@charset "UTF-8";
+
+
+
+/**
+
+ * FV Community News Styles
+
+ *
+
+ * @version	20120716
+
+ * @author	Frank Verhoeven <info@frank-verhoeven.com>
+
+ */
+
+
+
+.fvcn-post-thumbnail {
+
+	float: left;
+
+	padding: 0;
+
+	margin: 0.3em 10px 0 0;
+
+	display: block;
+
+}
+
+
+
+.fvcn-post-content, .fvcn-post-meta {
+
+	margin: 0 !important;
+
+	width: 100% !important;
+
+}
+
+
+
+.fvcn-list-posts-widget .fvcn-post-thumbnail {
+
+	margin: 0.4em 5px 0 0;
+
+}
+
+
+
+.fvcn-list-posts-widget .fvcn-post-content:after {
+
+	clear: both;
+
+	content: " ";
+
+	display: table;
+
+}
+
+
+
+.fvcn-view-all {
+
+	text-align: right;
+
+}
+
+
+
+.fvcn-post-link {
+
+	font-weight: bold;
+
+	font-size: 1.1em;
+
+}
+
+
+
+
+
+/**
+
+ *	Notices
+
+ *
+
+ */
+
+.fvcn-template-notice {
+
+	border-width: 1px;
+
+	border-style: solid;
+
+	padding: .1em .4em;
+
+	margin: 5px 0 !important;
+
+	border-radius: 4px;
+
+	background-color: #ffffe0;
+
+	border-color: #e6db55;
+
+	color: #000;
+
+	clear: both;
+
+	box-shadow: 0 1px 1px #fff inset;
+
+}
+
+
+
+.fvcn-template-notice.error {
+
+	background-color: #ffebe8;
+
+	border-color: #e39387;
+
+}
+
+
+
+.fvcn-template-notice li {
+
+	list-style: none !important;
+
+	color: #000 !important;
+
+	font-size: .8em !important;
+
+	padding: 0 !important;
+
+	margin: 0 !important;
+
+}
+
+
+
+
+
+/**
+
+ *	Form
+
+ *
+
+ */
+
+.fvcn-post-form-ajax-loader {
+
+	display: none;
+
+	text-align: center;
+
+	float: none !important;
+
+	clear: both;
+
+}
+
+
+
+.fvcn-post-form-ajax-loader p {
+
+	margin-bottom: 0;
+
+}
+
+
+
+.fvcn-post-form-ajax-loader .fvcn-post-form-ajax-progress-bar-outer {
+
+	width: 120px;
+
+	height: 4px !important;
+
+	margin: 0 auto;
+
+	border: 1px solid #bbb;
+
+	background: #fff;
+
+	padding: 1px !important;
+
+	border-radius: 6px !important;
+
+	float: none !important;
+
+}
+
+
+
+.fvcn-post-form-ajax-loader .fvcn-post-form-ajax-progress-bar-inner {
+
+	width: 0%;
+
+	padding: 0 !important;
+
+	height: 4px !important;
+
+	background: #1982d1;
+
+	border-radius: 2px !important;
+
+	float: none !important;
+
+}
+
+
+
+.widget .fvcn-post-form input[type="text"],
+
+.widget .fvcn-post-form input[type="file"],
+
+.widget .fvcn-post-form textarea {
+
+	width: 100%;
+
+}
+
+
+#fvcn_post_form_submit{
+    background: none repeat scroll 0 0 #C2291E;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    padding: 3px 22px 3px 20px;
+    font-weight: bold;
+}
+
+
+
+.plupload_filelist ul{
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.video_entry #content ul{
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.fvcn-post-form-title{
+	margin-top: 20px;
+	width: 450px;
+}
+
+#fvcn_post_form_title{
+	float: right;
+	width: 330px;
+	margin-top: -22px;
+}
+.fvcn-post-form-link{
+	margin-top: 20px;
+	width: 450px;
+}
+
+#fvcn_post_form_link{
+	float: right;
+	width: 330px;
+		margin-top: -22px;
+}
+
+.fvcn-post-form-content{
+	margin-top: 20px;
+	width: 450px;
+}
+
+#fvcn_post_form_content{
+	float: right;
+	width: 330px;
+		margin-top: -22px;
+}
+
+.fvcn-post-form-tags{
+	margin-top: 72px;
+	width: 450px;
+
+
+}
+
+#fvcn_post_form_tags{
+		float: right;
+		width: 328px;
+			margin-top: -22px;
+}
+
+
+#fvcn_post_form_author_name{
+ float: right;
+ width: 300px;
+ margin-right: 150px;
+}
+
+#fvcn_post_form_author_email{
+	float: right;
+	width: 300px;
+	margin-right: 150px;
+	margin-top: 20px;
+}
+
+
+
+
+
+
