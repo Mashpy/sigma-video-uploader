@@ -74,7 +74,7 @@
 
 		
 
-		<?php if (fvcn_is_anonymous()) : ?>
+		<?php if (!fvcn_is_anonymous()) : ?>
 
 			
 
