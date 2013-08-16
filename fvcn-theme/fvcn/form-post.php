@@ -56,7 +56,7 @@
 
 <?php do_action('fvcn_post_form_before'); ?>
 
-
+<?php if (!fvcn_is_anonymous()) : ?>
 
 <div class="fvcn-post-form">
 
@@ -74,7 +74,7 @@
 
 		
 
-		<?php if (!fvcn_is_anonymous()) : ?>
+
 
 			
 
@@ -131,7 +131,7 @@
 
 			
 
-		<?php else : ?>
+	
 
 			
 
@@ -144,7 +144,7 @@
 			<div class="rules_regu" style="color: #C2291E; font-size: 16px;">
 			<h4>1: Upload Your Video File:</h4>
 			</div>
-		<?php endif; ?>
+
 
 			
 
@@ -195,7 +195,7 @@
 		<?php do_action('fvcn_post_form_after_title'); ?>
 
 
-
+	
 
 	
 
@@ -218,7 +218,7 @@
 		<?php do_action('fvcn_post_form_after_content'); ?>
 
 		
-
+	
 		<?php do_action('fvcn_post_form_before_tags'); ?>
 
 		<div class="fvcn-post-form-tags">
@@ -237,7 +237,6 @@
 
 		<?php do_action('fvcn_post_form_after_tags'); ?>
 
-		
 
 		<?php if (fvcn_is_post_form_thumbnail_enabled()) : ?>
 
@@ -274,7 +273,7 @@
 
 		<?php do_action('fvcn_post_form_after_submit'); ?>
 
-		
+
 
 		<?php fvcn_post_form_fields(); ?>
 
@@ -290,7 +289,9 @@
 
 <?php do_action('fvcn_post_form_after'); ?>
 
-
-
+	<?php else : ?>
+	<p>Please Login to upload videos.</p>
+	<?php endif; ?>
 <?php endif; ?>
+
 
